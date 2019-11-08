@@ -13,6 +13,7 @@
   "author": "m.anangnur@gmail.com",
   "license": "MIT",
   "dependencies": {
+    "api-inti": "^1.0.1",
     "mongoose": "^5.7.7"
   }
 }

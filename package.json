@@ -13,6 +13,6 @@
   "author": "m.anangnur@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "mongoose": "^5.7.7"
+    "mongoose": "^5.13.15"
   }
 }
